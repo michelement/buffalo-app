@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>142BCF7E-AD03-4227-96B0-58A0EDE3492F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iBuffalo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B15BE76944537FC8159A09AC6C98E66AF4E49569</key>
+		<string>https://github.com/michelement/buffalo-app</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iBuffalo/iBuffalo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B15BE76944537FC8159A09AC6C98E66AF4E49569</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/michelement/buffalo-app</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B15BE76944537FC8159A09AC6C98E66AF4E49569</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B15BE76944537FC8159A09AC6C98E66AF4E49569</string>
+			<key>IDESourceControlWCCName</key>
+			<string>buffalo-app</string>
+		</dict>
+	</array>
+</dict>
+</plist>
