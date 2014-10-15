@@ -2,7 +2,7 @@
 //  ModelController.swift
 //  iBuffalo
 //
-//  Created by Michele Kim Jenkins on 14.10.14.
+//  Created by Michele Kim Jenkins on 10.14.14.
 //  Copyright (c) 2014 Buffalo Apps. All rights reserved.
 //
 
